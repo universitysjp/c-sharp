@@ -18,4 +18,4 @@ Exercises:
 - Make Person abstract
 
 Theory Links:
-- [Oop](../oop)
+- [Oop](./oop)

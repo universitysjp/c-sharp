@@ -18,5 +18,5 @@ Exercises:
 - Extend to capture birth month & day
 
 Theory Links:
-- [Intro](../visual-programming-introduction)
-- [Strings](../strings)
+- [Intro](./visual-programming-introduction)
+- [Strings](./strings)

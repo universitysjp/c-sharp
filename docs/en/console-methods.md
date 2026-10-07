@@ -17,4 +17,4 @@ Exercises:
 - Add TryParse-like method returning bool + out param
 
 Theory Links:
-- [Methods](../methods)
+- [Methods](./methods)

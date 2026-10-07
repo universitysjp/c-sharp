@@ -17,4 +17,4 @@ Exercises:
 - Export scores to CSV line
 
 Theory Links:
-- [Arrays](../arrays)
+- [Arrays](./arrays)

@@ -17,4 +17,4 @@ Exercises:
 - Track and display calculation history
 
 Theory Links:
-- [Control Statements](../control-statements)
+- [Control Statements](./control-statements)

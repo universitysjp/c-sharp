@@ -18,4 +18,4 @@ Exercises:
 - Palindrome test
 
 Theory Links:
-- [Strings](../strings)
+- [Strings](./strings)
