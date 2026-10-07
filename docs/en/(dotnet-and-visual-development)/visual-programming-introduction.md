@@ -1,8 +1,8 @@
 ---
-title: "Introduction"
+title: "Introduction to Visual Programming"
 ---
 
-## Introduction 
+## What is visual programming?
 
 - **Visual Application Programming**: Any programming language that allows the user to
 specify a program in a Two- (or more)-dimensional way,.
@@ -74,6 +74,5 @@ Visual Studio is a popular IDE developed by Microsoft. It's used to develop
 Windows, web, and mobile applications.
 
 [**Download Visual Studio**](https://visualstudio.microsoft.com/)
-
 
 

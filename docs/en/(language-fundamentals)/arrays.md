@@ -1,8 +1,6 @@
 ---
-title: "Arrays in C"
+title: "Arrays in C#"
 ---
-
-# Arrays in C#
 
 ### Overview
 

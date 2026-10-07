@@ -2,8 +2,6 @@
 title: "03 - String Analyzer"
 ---
 
-# 03 - String Analyzer
-
 Scenario: Analyze a sentence for basic metrics.
 
 Concepts:

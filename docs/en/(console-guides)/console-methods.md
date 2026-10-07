@@ -2,8 +2,6 @@
 title: "05 - Methods & Overloads"
 ---
 
-# 05 - Methods & Overloads
-
 Scenario: Utility class consumed by a console entry point.
 
 Concepts:

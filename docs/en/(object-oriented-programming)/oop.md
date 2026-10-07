@@ -1,8 +1,6 @@
 ---
-title: "Object-Oriented Programming (OOP) in C"
+title: "Object-Oriented Programming in C#"
 ---
-
-# Object-Oriented Programming (OOP) in C#
 
 ## Encapsulation
 

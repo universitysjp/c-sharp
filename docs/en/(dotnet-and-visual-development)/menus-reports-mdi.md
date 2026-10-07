@@ -2,8 +2,6 @@
 title: "Menus, Reports & MDI"
 ---
 
-# Menus, Reports & MDI
-
 ## Menus
 Use `MenuStrip` in WinForms to provide top-level navigation.
 

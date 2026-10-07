@@ -2,8 +2,6 @@
 title: "C# Console Applications"
 ---
 
-# C# Console Applications
-
 Structured, scenario-based console samples aligned with theory in `../Intro`.
 
 ## Index

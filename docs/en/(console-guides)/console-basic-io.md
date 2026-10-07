@@ -2,8 +2,6 @@
 title: "01 - Basic IO & Variables"
 ---
 
-# 01 - Basic IO & Variables
-
 Scenario: Collect a user's name and age, then show an approximate birth year.
 
 Concepts:

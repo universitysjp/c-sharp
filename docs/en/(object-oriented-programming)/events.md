@@ -2,8 +2,6 @@
 title: "Events & Delegates"
 ---
 
-# Events & Delegates
-
 ## Delegates
 Type-safe function pointers.
 ```csharp

@@ -2,8 +2,6 @@
 title: "04 - Array Statistics"
 ---
 
-# 04 - Array Statistics
-
 Scenario: Collect fixed number of scores and compute statistics.
 
 Concepts:

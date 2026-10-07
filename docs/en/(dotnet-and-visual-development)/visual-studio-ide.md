@@ -2,8 +2,6 @@
 title: "Visual Studio IDE Essentials"
 ---
 
-# Visual Studio IDE Essentials
-
 ## What is an IDE?
 Integrated Development Environment bundling editor, compiler integration, debugger, designers, source control, testing tools, extensions.
 

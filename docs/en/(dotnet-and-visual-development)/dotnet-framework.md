@@ -2,8 +2,6 @@
 title: ".NET Framework & Platform Overview"
 ---
 
-# .NET Framework & Platform Overview
-
 ## What is .NET?
 A free, open-source (core/modern), cross-platform developer platform for building web, desktop, mobile, cloud, gaming, IoT apps.
 

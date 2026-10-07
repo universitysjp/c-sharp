@@ -2,8 +2,6 @@
 title: "02 - Control Flow Calculator"
 ---
 
-# 02 - Control Flow Calculator
-
 Scenario: Menu-driven calculator loops until user chooses exit.
 
 Concepts:

@@ -2,8 +2,6 @@
 title: "Visual Programming & VPL Tools"
 ---
 
-# Visual Programming & VPL Tools
-
 ## What is Visual Programming?
 Visual Programming Languages (VPLs) let you build programs by manipulating graphical elements (blocks, nodes, diagrams) instead of writing only text code. They reduce cognitive load for novices and speed up Rapid Application Development (RAD).
 

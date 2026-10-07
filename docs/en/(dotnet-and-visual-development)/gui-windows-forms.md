@@ -2,8 +2,6 @@
 title: "GUI & Windows Forms Fundamentals"
 ---
 
-# GUI & Windows Forms Fundamentals
-
 ## What is a GUI?
 Graphical User Interface: windows, controls, events instead of pure text I/O.
 

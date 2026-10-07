@@ -2,8 +2,6 @@
 title: "Databases & CRUD Overview"
 ---
 
-# Databases & CRUD Overview
-
 ## What is a Database?
 Structured (or semi/unstructured) data store accessed through a DBMS.
 

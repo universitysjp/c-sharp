@@ -1,8 +1,6 @@
 ---
-title: "Introduction to C"
+title: "Introduction to C#"
 ---
-
-# Introduction to C#
 
 * [Control Statements](./control-statements)
 * [Strings](./strings)

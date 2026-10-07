@@ -2,8 +2,6 @@
 title: "C# Basics — By Example (Intro)"
 ---
 
-# C# Basics — By Example (Intro)
-
 Beginner-friendly, runnable C# snippets. Each file has:
 - Clear comments explaining syntax and concepts
 - A simple `Main` method you can run standalone

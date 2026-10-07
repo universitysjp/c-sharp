@@ -1,8 +1,6 @@
 ---
-title: "Exceptions & Error Handling in C"
+title: "Exceptions and Error Handling in C#"
 ---
-
-# Exceptions & Error Handling in C#
 
 ## What is an Exception?
 An object representing an error / unexpected condition during program execution. Thrown (raised) and can be caught to recover or fail gracefully.

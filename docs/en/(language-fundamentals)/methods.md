@@ -2,8 +2,6 @@
 title: "C# Methods"
 ---
 
-# C# Methods 
-
 ## Introduction
 
 **Have you heard about functions in C#?** In C#, functions and methods are often used interchangeably. Both refer to a block of code that performs a specific task. This code block is defined by a signature and contains statements that are executed sequentially.
