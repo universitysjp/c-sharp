@@ -8,7 +8,7 @@ title: "Introduction to C#"
 * [Methods](./methods)
 * [OOP in C#](./oop)
   - [Introduction](./oop)
-  - [OOP by example](https://github.com/universitysjp/c-sharp/blob/main/Intro/oop.cs)
+  - [OOP by example code](./oop#complete-oop-example)
 * [Visual Programming Concepts](./visual-programming)
 * [The .NET Framework / Platform](./dotnet-framework)
 * [Visual Studio IDE Essentials](./visual-studio-ide)
