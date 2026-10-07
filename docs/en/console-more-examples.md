@@ -1,3 +1,7 @@
+---
+title: "Additional Combined Console Examples"
+---
+
 # Additional Combined Console Examples
 
 This folder groups larger, integrated examples combining multiple concepts.

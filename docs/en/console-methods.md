@@ -1,3 +1,7 @@
+---
+title: "05 - Methods & Overloads"
+---
+
 # 05 - Methods & Overloads
 
 Scenario: Utility class consumed by a console entry point.
@@ -13,4 +17,4 @@ Exercises:
 - Add TryParse-like method returning bool + out param
 
 Theory Links:
-- `../Intro/METHODS.md`
+- [Methods](../methods)

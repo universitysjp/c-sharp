@@ -1,21 +1,25 @@
+---
+title: "Introduction to C"
+---
+
 # Introduction to C#
 
-* [Control Statements](./CONTROL-STATEMENTS.md)
-* [Strings](./STRINGS.md)
-* [Arrays](./ARRAYS.md)
-* [Methods](./METHODS.md)
-* [OOP in C#](./OOP.md)
-  - [Introduction](./OOP.md)
-  - [OOP by example](./oop.cs)
-* [Visual Programming Concepts](./VISUAL-PROGRAMMING.md)
-* [The .NET Framework / Platform](./DOTNET-FRAMEWORK.md)
-* [Visual Studio IDE Essentials](./VISUAL-STUDIO-IDE.md)
-* [Events & Delegates](./EVENTS.md)
-* [Exceptions](./EXCEPTIONS.md)
-* [Databases & CRUD Overview](./DATABASES.md)
-* [GUI & Windows Forms Fundamentals](./GUI-WINDOWS-FORMS.md)
-* [Menus, Reports & MDI](./MENUS-REPORTS-MDI.md)
-* [LINQ Basics](./LINQ.md)
+* [Control Statements](../control-statements)
+* [Strings](../strings)
+* [Arrays](../arrays)
+* [Methods](../methods)
+* [OOP in C#](../oop)
+  - [Introduction](../oop)
+  - [OOP by example](https://github.com/universitysjp/c-sharp/blob/main/Intro/oop.cs)
+* [Visual Programming Concepts](../visual-programming)
+* [The .NET Framework / Platform](../dotnet-framework)
+* [Visual Studio IDE Essentials](../visual-studio-ide)
+* [Events & Delegates](../events)
+* [Exceptions](../exceptions)
+* [Databases & CRUD Overview](../databases)
+* [GUI & Windows Forms Fundamentals](../gui-windows-forms)
+* [Menus, Reports & MDI](../menus-reports-mdi)
+* [LINQ Basics](../linq)
 
 
 C# (pronounced "C sharp") is a modern, object-oriented programming language

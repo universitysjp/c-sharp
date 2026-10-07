@@ -1,3 +1,7 @@
+---
+title: "Visual Studio IDE Essentials"
+---
+
 # Visual Studio IDE Essentials
 
 ## What is an IDE?

@@ -5,21 +5,21 @@ A structured learning repository combining theory (Intro) and hands-on Console &
 ## 📚 Theory (Intro)
 Foundational markdown lessons (all inside `Intro/`).
 
-- [Overview & Evolution](./Intro/README.md)
-- [Visual Programming Concepts](./Intro/VISUAL-PROGRAMMING.md)
-- [The .NET Framework / Platform](./Intro/DOTNET-FRAMEWORK.md)
-- [Visual Studio IDE Essentials](./Intro/VISUAL-STUDIO-IDE.md)
-- [Control Statements](./Intro/CONTROL-STATEMENTS.md)
-- [Strings](./Intro/STRINGS.md)
-- [Arrays](./Intro/ARRAYS.md)
-- [Methods](./Intro/METHODS.md)
-- [Object-Oriented Programming](./Intro/OOP.md)
-- [Events & Delegates](./Intro/EVENTS.md)
-- [Exceptions](./Intro/EXCEPTIONS.md)
-- [Databases & CRUD Overview](./Intro/DATABASES.md)
-- [GUI & Windows Forms Fundamentals](./Intro/GUI-WINDOWS-FORMS.md)
-- [Menus, Reports & MDI](./Intro/MENUS-REPORTS-MDI.md)
-- [LINQ Basics](./Intro/LINQ.md)
+- [Introduction to C#](./docs/en/csharp-introduction.md)
+- [Visual Programming Concepts](./docs/en/visual-programming.md)
+- [The .NET Framework / Platform](./docs/en/dotnet-framework.md)
+- [Visual Studio IDE Essentials](./docs/en/visual-studio-ide.md)
+- [Control Statements](./docs/en/control-statements.md)
+- [Strings](./docs/en/strings.md)
+- [Arrays](./docs/en/arrays.md)
+- [Methods](./docs/en/methods.md)
+- [Object-Oriented Programming](./docs/en/oop.md)
+- [Events & Delegates](./docs/en/events.md)
+- [Exceptions](./docs/en/exceptions.md)
+- [Databases & CRUD Overview](./docs/en/databases.md)
+- [GUI & Windows Forms Fundamentals](./docs/en/gui-windows-forms.md)
+- [Menus, Reports & MDI](./docs/en/menus-reports-mdi.md)
+- [LINQ Basics](./docs/en/linq.md)
 
 <details>
   <summary><strong>Intro to C# — By Example (Beginner)</strong></summary>
@@ -38,7 +38,7 @@ Foundational markdown lessons (all inside `Intro/`).
   - 11 — break & continue: [11_BreakContinue.cs](./Intro/CSharp-Basics/11_BreakContinue.cs)
   - 12 — arrays: [12_Arrays.cs](./Intro/CSharp-Basics/12_Arrays.cs)
 
-  See overview: [C# Basics — README](./Intro/CSharp-Basics/README.md)
+  See overview: [C# Basics — README](./docs/en/csharp-basics.md)
 </details>
 
 ## 💻 Console Application Samples
@@ -46,14 +46,14 @@ Scenario-based examples mapped to theory:
 
 | # | Folder | Topic | Quick Description |
 |---|--------|-------|-------------------|
-| 01 | [Console Applications/01_BasicIO](./Console%20Applications/01_BasicIO/) | Basic IO & Variables | ReadLine, validation, interpolation |
-| 02 | [Console Applications/02_ControlFlow](./Console%20Applications/02_ControlFlow/) | Control Flow | Menu, loops, switch |
-| 03 | [Console Applications/03_Strings](./Console%20Applications/03_Strings/) | Strings | Analysis utilities |
-| 04 | [Console Applications/04_Arrays](./Console%20Applications/04_Arrays/) | Arrays | Stats, sorting, 2D matrix |
-| 05 | [Console Applications/05_Methods](./Console%20Applications/05_Methods/) | Methods | Overloads, Random, Math |
-| 06 | [Console Applications/06_OOP](./Console%20Applications/06_OOP/) | OOP | Inheritance & polymorphism |
-| 07 | [Console Applications/07_Exceptions](./Console%20Applications/07_Exceptions/) | Exceptions | Robust division tool |
-| 08 | [Console Applications/08_InMemoryCRUD](./Console%20Applications/08_InMemoryCRUD/) | CRUD | List-based student manager |
+| 01 | [Console Applications/01_BasicIO](./docs/en/console-basic-io.md) | Basic IO & Variables | ReadLine, validation, interpolation |
+| 02 | [Console Applications/02_ControlFlow](./docs/en/console-control-flow.md) | Control Flow | Menu, loops, switch |
+| 03 | [Console Applications/03_Strings](./docs/en/console-strings.md) | Strings | Analysis utilities |
+| 04 | [Console Applications/04_Arrays](./docs/en/console-arrays.md) | Arrays | Stats, sorting, 2D matrix |
+| 05 | [Console Applications/05_Methods](./docs/en/console-methods.md) | Methods | Overloads, Random, Math |
+| 06 | [Console Applications/06_OOP](./docs/en/console-oop.md) | OOP | Inheritance & polymorphism |
+| 07 | [Console Applications/07_Exceptions](./docs/en/console-exceptions.md) | Exceptions | Robust division tool |
+| 08 | [Console Applications/08_InMemoryCRUD](./docs/en/console-in-memory-crud.md) | CRUD | List-based student manager |
 
 ### � Combined / Larger Console Examples
 | Example | Path | Concepts |

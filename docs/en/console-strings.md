@@ -1,3 +1,7 @@
+---
+title: "03 - String Analyzer"
+---
+
 # 03 - String Analyzer
 
 Scenario: Analyze a sentence for basic metrics.
@@ -14,4 +18,4 @@ Exercises:
 - Palindrome test
 
 Theory Links:
-- `../Intro/STRINGS.md`
+- [Strings](../strings)

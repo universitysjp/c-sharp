@@ -1,3 +1,7 @@
+---
+title: "Visual Programming & VPL Tools"
+---
+
 # Visual Programming & VPL Tools
 
 ## What is Visual Programming?

@@ -1,3 +1,7 @@
+---
+title: "LINQ Basics"
+---
+
 # LINQ Basics
 
 Language Integrated Query: Consistent querying over in-memory objects, XML, EF contexts, etc.

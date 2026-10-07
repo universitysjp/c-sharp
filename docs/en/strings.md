@@ -1,3 +1,7 @@
+---
+title: "Strings in C"
+---
+
 # Strings in C#
 
 ### Overview

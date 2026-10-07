@@ -1,3 +1,7 @@
+---
+title: "07 - Exceptions"
+---
+
 # 07 - Exceptions
 
 Scenario: Division with validation + custom exception.

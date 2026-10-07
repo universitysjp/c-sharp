@@ -1,3 +1,7 @@
+---
+title: "C# Basics — By Example (Intro)"
+---
+
 # C# Basics — By Example (Intro)
 
 Beginner-friendly, runnable C# snippets. Each file has:
@@ -28,4 +32,4 @@ Topics:
 - 11 — break & continue
 - 12 — arrays
 
-Tip: Open side-by-side with the corresponding theory pages inside `Intro/` for deeper context.
+Tip: Open side-by-side with the corresponding theory pages in this module for deeper context.

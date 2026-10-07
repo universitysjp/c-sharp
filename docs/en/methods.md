@@ -1,3 +1,7 @@
+---
+title: "C# Methods"
+---
+
 # C# Methods 
 
 ## Introduction

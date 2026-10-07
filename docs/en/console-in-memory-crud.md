@@ -1,3 +1,7 @@
+---
+title: "08 - In-Memory CRUD"
+---
+
 # 08 - In-Memory CRUD
 
 Scenario: Manage a list of students with CRUD operations.

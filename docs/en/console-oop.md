@@ -1,3 +1,7 @@
+---
+title: "06 - OOP Basics"
+---
+
 # 06 - OOP Basics
 
 Scenario: Simple employee listing demonstrating encapsulation, inheritance & polymorphism.
@@ -14,4 +18,4 @@ Exercises:
 - Make Person abstract
 
 Theory Links:
-- `../Intro/OOP.md`
+- [Oop](../oop)

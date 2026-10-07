@@ -1,3 +1,7 @@
+---
+title: "01 - Basic IO & Variables"
+---
+
 # 01 - Basic IO & Variables
 
 Scenario: Collect a user's name and age, then show an approximate birth year.
@@ -14,5 +18,5 @@ Exercises:
 - Extend to capture birth month & day
 
 Theory Links:
-- `../Intro/INTRO.md`
-- `../Intro/STRINGS.md`
+- [Intro](../visual-programming-introduction)
+- [Strings](../strings)

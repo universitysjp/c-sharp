@@ -1,3 +1,7 @@
+---
+title: "Menus, Reports & MDI"
+---
+
 # Menus, Reports & MDI
 
 ## Menus

@@ -1,3 +1,7 @@
+---
+title: "Exceptions & Error Handling in C"
+---
+
 # Exceptions & Error Handling in C#
 
 ## What is an Exception?

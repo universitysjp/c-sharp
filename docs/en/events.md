@@ -1,3 +1,7 @@
+---
+title: "Events & Delegates"
+---
+
 # Events & Delegates
 
 ## Delegates

@@ -1,3 +1,7 @@
+---
+title: "Control Statements in C"
+---
+
 # Control Statements in C#
 
 Control statements in C# manage the flow of execution in a program. They are divided into three main categories:
